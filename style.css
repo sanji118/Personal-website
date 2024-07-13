@@ -21,8 +21,8 @@
     section#introduction img{
         width: 100%;
     }
-    div.item-4 img{
-        width: 80%;
+    .cv img{
+        width: 60%;
     }
     main{
         text-align: center;
@@ -39,6 +39,9 @@
     footer{
         width:100%;
         font-size: 40%;
+    }
+    #footer{
+        text-align: left;
     }
 
 }
@@ -81,6 +84,9 @@
         width:100%;
         font-size: 60%;
     } 
+    #footer{
+        text-align: left;
+    }
 }
 header{
     padding: 50px;
